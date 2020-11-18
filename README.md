@@ -3,7 +3,7 @@ I created an exploration VR game called ’A Cat in a Room’ and successfully e
 
 📅 2016
 
-🛠 Libraries/tools
+🛠 Built with:
 * Unity3D
 * C#
 * HTC Vive
