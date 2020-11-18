@@ -1,27 +1,22 @@
-# vrcat_
+# VR cat game
+I created an exploration VR game called ’A Cat in a Room’ and successfully exhibited in Swiss indie game festival
 
-   ---
-                title: "Get best post award with moral VR research"
-                date: 2017-01-31
-                tags:
-                - VR game development
-                - HTC Vive
-                - Unity3D
-                - Research and development
-                slug: "/vr-moral"
-                canonicalUrl: "https://random-blog-about-curses.com"
-                ---
-                ### Motivation
-                VR Moral decision game
-                I developed a VR moral decision game included psychological factors and I conducted an experiment with 22 participants when I was working at Gbanga.
-                I presented a poster called "Empathy in VR of the trolley problem compared to paper-based evaluations" at International Conference of Women Scientists and Engineers conference on BT, IT, ET and NT. I got an outstanding poster award.
+📅 2016
 
-                ### Period
-                Nov 2016 - Jan 2017
+🛠 Libraries/tools
+* Unity3D
+* C#
+* HTC Vive
 
-                ### Techonlogies used: 
-                * Unity3D 
-                * C#
-                * HTC Vive
 
-                ### Video and images
+## About this app
+* TBD
+
+## What I did
+* Game development
+* Research and development
+* TBD
+
+## Videos and pictures
+* TBD
+
