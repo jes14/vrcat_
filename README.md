@@ -18,6 +18,6 @@ I created an exploration VR game called ’A Cat in a Room’ and successfully e
 * TBD
 
 ## Videos and pictures
-[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/234780830 "Little red riding hood - Click to Watch!")
 
 
